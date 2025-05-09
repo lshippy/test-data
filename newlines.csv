@@ -1,6 +1,3 @@
-"Title","Description"
-"Item 1","• First point
-• Second point
-• Third point"
-"Item 2","• Another bullet
-• More details here"
+Title,Description
+Item 1,•\t First point\n•\t Second point\n•\t Third point
+Item 2,•\t Another bullet\n•\t More details here
